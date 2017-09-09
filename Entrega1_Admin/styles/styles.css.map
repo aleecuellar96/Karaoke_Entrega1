@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA;EACC,+BAA8B;EAC9B,eAAc;CACd","file":"styles.css","sourcesContent":[".thead-inverse{\n\tbackground: #8B2F8A !important;\n\tcolor: #8B2F8A;\n}"]}

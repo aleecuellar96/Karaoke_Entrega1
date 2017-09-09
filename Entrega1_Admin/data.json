@@ -1,0 +1,125 @@
+{
+    "reservaciones": [
+		{
+			"evento":"Cumpleaños Armando",
+			"cliente": "Alejandra Ocampo",
+			"fecha": "7/09/2017",
+			"inicio": "19:00",
+			"salida": "23:00"
+		},
+		{
+			"evento":"Cena Patria",
+			"cliente": "Andrea González",
+			"fecha": "15/09/2017",
+			"inicio": "20:00",
+			"salida": "23:30"
+		}
+	],
+	"karaoke": [
+		{
+			"num":"1",
+			"nombre":"Not Today",
+			"cliente":"Ilse Mejía"
+		},
+		{
+			"num":"2",
+			"nombre":"Young Dumb & Broke",
+			"cliente":"Alejandra Cuellar"
+		}
+	],
+	"servicios": [
+		{
+			"evento":"Cumpleaños Armando",
+			"cliente": "Alejandra Ocampo",
+			"fecha": "7/09/2017",
+			"inicio": "19:00",
+			"salida": "23:00",
+			"comida": [
+				{"nombreProd": "Nachos"},
+				{"nombreProd": "Papas a la francesa"},
+				{"nombreProd": "Pizza"},
+				{"nombreProd": "Refrescos"}
+			]
+		}
+	],
+	"historialCanciones": [
+		{
+			"num":"1",
+			"nombre":"Not Today",
+			"fecha":"6/09/2017",
+			"cliente":"Ilse Mejía"
+		},
+		{
+			"num":"2",
+			"nombre":"Las mañanitas",
+			"fecha":"8/09/2017",
+			"cliente":"Daniela Quintero"
+		},
+		{
+			"num":"3",
+			"nombre":"Good Thing",
+			"fecha":"8/09/2017",
+			"cliente":"Santiago Villa"
+		}
+	],
+	"historialComida": [
+		{
+			"producto":"Hamburguesa",
+			"num_pedido":"30",
+			"fecha":"7/09/2017",
+			"total":"$230"
+		},
+		{
+			"producto":"Nachos",
+			"num_pedido":"10",
+			"fecha":"7/09/2017",
+			"total":"$9000"
+		}
+	],
+	"cuentas": [
+		{
+			"mesa": "6",
+			"cliente": "Ilse Mejia",
+			"hora": "18:00"
+		}
+	],
+	"mesas": [
+		{
+			"producto": "Hamburguesa",
+			"precio": "$120"
+		},
+		{
+			"producto": "Refresco Lata",
+			"precio": "$25"
+		},
+		{
+			"producto": "Nachos",
+			"precio": "$56"
+		}
+	],
+	"ventas":[
+		{
+			"fecha": "17/10/2017",
+			"total": "$8000"
+		},
+		{
+			"fecha": "19/10/2017",
+			"total": "$14000"
+		},
+		{
+			"fecha": "20/10/2017",
+			"total": "$11450"
+		}
+	],
+	"alimentos"	:[
+		{
+			"nombre": "Nachos",
+			"precio" : 50
+		},
+		{
+			"nombre": "Refresco",
+			"precio" : 30
+		}
+
+	]
+}
